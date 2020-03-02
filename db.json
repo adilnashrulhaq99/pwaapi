@@ -1,0 +1,24 @@
+{
+"produk": [
+{"id":1,"nama":"Expedition","merek":"Ford"},
+{"id":2,"nama":"Gemini","merek":"Pontiac"},
+{"id":3,"nama":"Legacy","merek":"Subaru"},
+{"id":4,"nama":"Matrix","merek":"Toyota"},
+{"id":5,"nama":"S-Series","merek":"Saturn"},
+{"id":6,"nama":"GX","merek":"Lexus"},
+{"id":7,"nama":"Rio","merek":"Kia"},
+{"id":8,"nama":"W123","merek":"Mercedes-Benz"},
+{"id":9,"nama":"Karif","merek":"Maserati"},
+{"id":10,"nama":"4Runner","merek":"Toyota"},
+{"id":11,"nama":"LeMans","merek":"Pontiac"},
+{"id":12,"nama":"Challenger","merek":"Mitsubishi"},
+{"id":13,"nama":"Sierra 3500","merek":"GMC"},
+{"id":14,"nama":"Grand Cherokee","merek":"Jeep"},
+{"id":15,"nama":"Fox","merek":"Volkswagen"},
+{"id":16,"nama":"Jetta","merek":"Volkswagen"},
+{"id":17,"nama":"Quattroporte","merek":"Maserati"},
+{"id":18,"nama":"X-90","merek":"Suzuki"},
+{"id":19,"nama":"IS","merek":"Lexus"},
+{"id":20,"nama":"968","merek":"Porsche"}
+]
+}
